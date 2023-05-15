@@ -74,7 +74,6 @@ function displayAnalysisResults(data) {
         active: false,
         heightStyle: "content",
     });
-
     // Show the analysis results container
     $("#analysis-results").show();
 }
